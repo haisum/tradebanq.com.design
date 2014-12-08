@@ -1,0 +1,5 @@
+site_name: Tradebanq Design Revamp Plan
+pages:
+- [index.md, Home]
+- [goals.md, Goals]
+theme: readthedocs
