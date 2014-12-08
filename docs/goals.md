@@ -1,7 +1,7 @@
 ## Mobile Friendliness
 
-- No major mobile usability errors shall be reported by pagespeed insights (score of 80 would be ideal) ![Mobile Page speed errors](../images/mobile_errors.png)
-- A plan for redering and serving javascript and css in compressed and non blocking way. ![Desktop page speed errors](../images/desktop_pagespeed_errors.png)
+- No major mobile usability errors shall be reported by pagespeed insights (score of 80 would be ideal) ![Mobile Page speed errors](/images/mobile_errors.png)
+- A plan for redering and serving javascript and css in compressed and non blocking way. ![Desktop page speed errors](/images/desktop_pagespeed_errors.png)
 
 ## Usability improvement
 
