@@ -1,4 +1,5 @@
 site_name: Tradebanq Design Revamp Plan
+site_url: 
 pages:
 - [index.md, Home]
 - [goals.md, Goals]
