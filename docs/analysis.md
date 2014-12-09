@@ -76,8 +76,8 @@ Content prioritization needed. How much real state a section gets will be dictat
 
 ##Listing Page
 
-####1. [View port under-utilization (common for all templates)](analysis/#view-port-under-utilization)
-####2. [Mobile-friendliness (common for all templates)] (analysis/#not-mobile-friendly)
+####1. [View port under-utilization (common for all templates)]()
+####2. [Mobile-friendliness (common for all templates)]()
 ####3. Un-prioritized content & Cluttered UI
 Design elements to be prioritized
 
@@ -137,4 +137,4 @@ Design elements to be prioritized
 	- Easy sharing
 	- Redesign & better position legends
 
-####4. [In-consistent design language (common to all templates)](analysis/#inconsistent-Design-Language)
+####4. [In-consistent design language (common to all templates)]()
