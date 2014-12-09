@@ -2,6 +2,14 @@
 
 As part of the first phase, this page enlists design and usability issues on each template.
 
+---
+##List of all Templates
+---
+####[Home Page](home.md)
+####[Listing Page](listing.md)
+####[Details Page](details.md)
+---
+
 ###Common issues in each template
 Each Template has following issues in common, it's only fitting to list them here:
 
@@ -26,9 +34,4 @@ Tradebanq's primary target might not be mobile devices but that's not a reason g
 	- Readability
 	- Hierarchy
 
----
-#List of all Templates
----
-####[Home Page](home.md)
-####[Listing Page](listing.md)
-####[Details Page](details.md)
+
