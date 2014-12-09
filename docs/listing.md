@@ -15,9 +15,9 @@ Design elements to be prioritized
 
 ####2. Discontinuous user flow & visibility issues
 
-- Post RFQ is redundant CTA, send inquired should be sufficient. Also eats up very valuable real-state
+- Post RFQ is redundant CTA, send inquires should be sufficient. Eats up very valuable real-state
 
-- Breadcrumbs do give user a sense of which category it is but a dedicated space should be given when category name (possible some banner) should be showcased.
+- Breadcrumbs do give user a sense of which category it is but a dedicated space should be given where category name (preferably text + graphics) should be showcased.
 
 - As soon as user navigates to a category page, not finding a dedicated category drop-down hampers usability. List in refine search cannot not and must not search that purpose. Dedicated category list down those be on every category page. 
 

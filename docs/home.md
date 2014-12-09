@@ -1,7 +1,7 @@
 ## Home Page
 	
 ####1. Un-prioritized content & cluttered UI
-Content prioritization needed. How much real state a section gets will be dictates on this priority (Below list to be ranked):
+Content prioritization needed. How much real state a section gets will be dictated by this prioritized list (Below list to be ranked):
 
 - Navigation
 - Search
