@@ -4,4 +4,5 @@ pages:
 - [index.md, Home]
 - [goals.md, Goals]
 - [meetings.md, Meetings]
+- [analysis.md, Analysis]
 theme: readthedocs
