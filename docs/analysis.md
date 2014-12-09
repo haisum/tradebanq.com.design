@@ -7,7 +7,7 @@ As part of the first phase, this page enlists UX issues on each template.
 ###Design & Usability Issues
 	
 ####1. View port under-utilization
-Current layout is boxed instead of fluid. It makes use of 990px, if we consider a modest resolution of 1280 x 800 (what most 13-inch device feature), around 22% of the real state is still un-utilized and can be used to website's advantage.
+Current layout is boxed instead of fluid. It makes use of 990px, if we consider a modest resolution of 1280 x 800 (what most 13-inch device feature), around 22% of the real state is still unused.
 
 (image here)
 
@@ -49,7 +49,7 @@ Content prioritization needed. How much real state a section gets will be dictat
 - Advertisements
 - Social Media
 
-####4. Inconsistent Design Languague
+####4. Inconsistent Design Language
 - Headings (Font, size, color, breathing space)
 - Links (Font, size, color, breathing space)
 - Text (Font, size, color, breathing space)
@@ -73,5 +73,5 @@ Content prioritization needed. How much real state a section gets will be dictat
 	- Register (3)
 	- Login (2)
 - CTA to button mapping missing
-	- Directional ques missing
+	- Directional cues missing
 	- Non-existent breathing space 
