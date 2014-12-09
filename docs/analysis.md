@@ -139,7 +139,7 @@ Design elements to be prioritized
 
 ####4. [In-consistent design language (common to all templates)]()
 
-##Description Page
+##Details Page
 
 ####1. [View port under-utilization (common for all templates)]()
 ####2. [Mobile-friendliness (common for all templates)]()
