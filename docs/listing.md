@@ -1,5 +1,7 @@
 ##Listing Page
 
+[View page wise annotations here](https://www.marqueed.com/collections/172406)
+
 ####1. Un-prioritized content & Cluttered UI
 Design elements to be prioritized
 

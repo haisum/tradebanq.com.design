@@ -1,5 +1,7 @@
 ##Details Page
 
+[View page wise annotations here](https://www.marqueed.com/collections/172406)
+
 ####1. Un-prioritized content & Cluttered UI
 
 Discontinuous user flow & visibility issues:

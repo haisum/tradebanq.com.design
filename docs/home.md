@@ -1,4 +1,6 @@
 ## Home Page
+
+[View page wise annotations here](https://www.marqueed.com/collections/172406)
 	
 ####1. Un-prioritized content & cluttered UI
 Content prioritization needed. How much real state a section gets will be dictated by this prioritized list (Below list to be ranked):
